@@ -1,15 +1,24 @@
 # ChicagoCrimesAnalysis
 
 ## Description: 
+* Task 1 : Data Preparation
 ```
-    — Started with a 100k dataset of crimes in Chicago. Prepared the data for processing by introducing new
+Started with a 100k dataset of crimes in Chicago. Prepared the data for processing by introducing new
 attributes and converting the file into Parquet format.
-    — Performed a spatial analysis by running SQL queries to compute crime totals and plotting results on
-choropleth map.
-    — Performed a temporal analysis to count the number of crimes by category for a given time period.
-Displayed results as a bar chart and wrote the output to a CSV file.
-    - Used: Scala, Beast, and SparkSQL
 ```
+* Task 2 : Spatial Analysis
+```
+Performed a spatial analysis by running SQL queries to compute crime totals and plotting results on
+choropleth map.
+```
+* Task 3 : Temporal analysis
+```
+Performed a temporal analysis to count the number of crimes by category for a given time period.
+Displayed results as a bar chart and wrote the output to a CSV file.
+```
+## Tech Used:
+Used: Scala, Beast, and SparkSQL
+
 
 ## Student Information
 * Task 1 : Data Preparation
