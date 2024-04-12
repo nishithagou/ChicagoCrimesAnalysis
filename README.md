@@ -17,7 +17,7 @@ Performed a temporal analysis to count the number of crimes by category for a gi
 Displayed results as a bar chart and wrote the output to a CSV file.
 ```
 ## Tech Used:
-Used: Scala, Beast, and SparkSQL
+Scala, Beast, and SparkSQL
 
 
 ## Student Information
